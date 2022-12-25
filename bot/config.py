@@ -7,8 +7,8 @@ class config:
     SUPPORT_CHAT_LINK = "https://t.me/theq003"
     DOWNLOAD_DIRECTORY = "./downloads/"
     ENV = "ANYTHING"
-    G_DRIVE_CLIENT_ID = "202264815644.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
+    G_DRIVE_CLIENT_ID = "590485850946-jrtqd6qp9uolfhpdmfb02ci58imkpknk.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
